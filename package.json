@@ -1,0 +1,20 @@
+{
+  "name": "BitCustom",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.0.0rc3",
+    "ejs": "*",
+    "less-middleware": "*",
+    "socket.io": "*", 
+    "email": "0.2.5",
+    "recaptcha": "*",
+    "connect": "2.4.5",
+    "cookie": "0.0.4",
+    "redis": "0.8.1",
+    "connect-redis": "1.4.4"
+  }
+}
